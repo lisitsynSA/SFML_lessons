@@ -1,8 +1,10 @@
-“ипы  оммитов:
-[FEAT] - feature Ч используетс€ при добавлении новой функциональности уровн€ приложени€
-[FIX]  - fix Ч если исправили какую-то серьезную багу
-[DOCS] - docs Ч всЄ, что касаетс€ документации
-[STYL] - style Ч исправл€ем опечатки, исправл€ем форматирование
-[REFA] - refactor Ч рефакторинг кода приложени€
-[TEST] - test Ч всЄ, что св€зано с тестированием
-[CHOR] - chore Ч обычное обслуживание кода
+### SFML lessons examples:
+1. SFML settings
+2. SFML System module
+3. SFML Window module and events
+4. SFML graphics module - sprites, textures, text and transforming
+5. SFML VertexArray - example for points
+6. SFML View - work with tile map
+
+### Tutorial link:
+https://www.sfml-dev.org/tutorials/2.5/
